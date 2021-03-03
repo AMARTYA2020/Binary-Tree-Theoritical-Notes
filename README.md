@@ -1,2 +1,2 @@
 # Binary-Tree-Theoritical-Notes
-N-ary tree,BST
+N-ary tree,BST, Height balanced BST's
